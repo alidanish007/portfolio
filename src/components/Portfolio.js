@@ -30,7 +30,13 @@ export default class Porfolio extends Component {
                               <p>{item.description}</p>
                             </div>
                           </div>
-                          <p style={{ textAlign: "center" }}>
+                          <p
+                            style={{
+                              textAlign: "center",
+                              margin: "5px 10px 5px 10px",
+                              lineHeight: "20px",
+                            }}
+                          >
                             {item.about}
                             <p>'{item.title}'</p>
                           </p>

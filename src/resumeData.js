@@ -25,7 +25,7 @@ let resumeData = {
   ],
   aboutme:
     "With 1.5 years of experience, I’ve developed mobile and web applications for high-volume businesses. Expert in CSS, JavaScript, React Native, ReactJs, WordPress, and I deliver innovative solutions on time. Strong problem-solving skills, multitasking abilities, and effective workload prioritization. Excellent communication and a reliable team player who excels in collaborative environments.",
-  address: "Samnabad,Lahore",
+  address: "+92-316-4605908",
   website: "https://github.com/alidanish007",
   education: [
     {
@@ -61,7 +61,7 @@ let resumeData = {
         "Support from the help desk, administration, maintenance of the hardware inventory, deployment and configuration of networking devices, and documentation of configuration modification.",
     },
   ],
-  skillsDescription: "Your skills here",
+  skillsDescription: "",
   skills: [
     {
       skillname: "HTML5",
@@ -108,7 +108,7 @@ let resumeData = {
       imgurl: "images/portfolio/P3.png",
       link: "",
       about:
-        "Indigo Signature Apartments is web application for booking Residential Suits",
+        "Indigo Signature is web application for booking Residential Suits.",
     },
     {
       title: "WordPress",
@@ -116,8 +116,7 @@ let resumeData = {
       description: "Website",
       imgurl: "images/portfolio/P4.png",
       link: "",
-      about:
-        "Developers Alley is company portfolio website build using Elementor/ElemetorPro ",
+      about: "Developers Alley is an awesome Tech Company portfolio website. ",
     },
   ],
   testimonials: [
