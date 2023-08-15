@@ -22,6 +22,7 @@ export default class Porfolio extends Component {
                             style={{ objectFit: "contain" }}
                             src={`${item.imgurl}`}
                             className="item-img"
+                            alt="images"
                           />
                           <div className="overlay">
                             <div className="portfolio-item-meta">
